@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.block1{
+    min-width: 300px;
+    min-height: 100vh;
+    background-color: red;
+    /* position: relative;
+    top: 100px; */
+}
+.block1 img{
+    position: relative;
+    top: 100px;
+}
